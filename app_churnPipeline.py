@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 # Load the machine learning model and encode
-model = joblib.load('churn_prediction_pipeline.pkl')
+model = joblib.load('model.pkl')
 
 
 def main():
