@@ -1,8 +1,8 @@
-streamlit>=1.30
+streamlit
 numpy
-pandas==2.1.4
-scikit-learn==1.8.0
-joblib==1.2.0
-protobuf==3.20.*
+pandas
+scikit-learn
+joblib
+protobuf
 setuptools
 wheel
